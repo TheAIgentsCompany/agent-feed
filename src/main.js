@@ -67,7 +67,7 @@ function render() {
     </main>
 
     <footer class="text-center py-6 text-[#7a8290] text-xs border-t border-[#22262e]">
-      <a href="https://github.com/TheAIgentsCompany/agent-feed" class="text-indigo-400 hover:underline">GitHub</a>
+      <i>Developed by <b>TheAIgentsCompany</b> &middot; Powered by <b>Arty</b></i>
     </footer>
   `;
 }
